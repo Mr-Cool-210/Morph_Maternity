@@ -1,0 +1,130 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: poppins,sans-serif;
+	text-decoration: none;
+	box-sizing: border-box;
+	list-style: none;
+}
+.box1{
+	width:100%;
+	height:38px;
+	background-color: #e1630e;
+	text-align: center;
+	line-height: 38px;
+}
+.header{
+	width: 100%;
+	height: 155px;
+	
+}
+
+.search{
+	display: inline-block;
+	height: 100px;
+}
+.logo{
+	display: inline-block;
+	height: 153px;
+	width: 153px;
+	margin: 0 30vw;
+}
+.logo img{
+	height: 153px;
+	width: 153px;
+	float: right;
+}
+.account{
+	display: inline-block;
+}
+.nav{
+	height: 90px;
+	width:100%;
+}
+.nav a{
+	font-size: 17px;
+	line-height: 90px;
+	margin-left: 11vw;
+    color:black;
+}
+.image_1{
+	width: 100%;
+	height: 45vw;
+}
+.image_1 img{
+	width:100%;
+	height: 45vw;
+}
+.last_img{
+	width: 100%;
+	height: 7vw;
+}
+.last_img img{
+	width:100%;
+	height: 7vw;
+}
+.footer{
+	
+	width: 100%;
+	height: 90px;
+	
+}
+.social_img{
+	height:90px;
+	width:300px;
+	line-height: 90px;
+	/* display: inline-block; */
+	float: left;
+	
+	
+}
+.social_img img{
+	height:20px;
+	width:20px;
+	margin:0 10px;
+
+
+}
+.footer .text_foot{
+	display: inline-block;
+	height: 90px;
+	width:300px;
+	background-color: #fff;
+	text-align: center;
+	margin-left: 180px;
+   
+}
+.pay{
+	display: inline-block;
+	line-height: 110px;
+	width:200px;
+	height:90px;
+	
+}
+.margin_c{
+    
+	padding-left: 8vw;
+}
+.list1{
+    margin: 50px;
+}
+a{
+	color:black;
+}
+a:hover{
+	color:orangered;
+}
+.back{
+	background-image: url("motherwood12.jpg");
+	width: 100%;
+	height: 100vh;
+	background-size: cover;
+	
+}
+.mark{
+	/* border: 2px solid black; */
+	border-style: double;
+}
+
+
+
